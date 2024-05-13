@@ -10,4 +10,4 @@
 
 6. An algorithm was introduced in it, that is almost similar to the DFS, so that the maze of the game can be created.
 
-![1](1.png)
+![1](1.png).
