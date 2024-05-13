@@ -9,3 +9,5 @@
 5. Involved a little bit of DoM manupilation in it.
 
 6. An algorithm was introduced in it, that is almost similar to the DFS, so that the maze of the game can be created.
+
+![1](1.png)
